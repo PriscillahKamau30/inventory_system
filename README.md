@@ -37,7 +37,7 @@ inventory_system/
 #1. Clone the repository
 
 git clone https://github.com/PriscillahKamau30/inventory_system.git
-cd inventory-system
+cd inventory_system
 
 #2. Create virtual environment
 
